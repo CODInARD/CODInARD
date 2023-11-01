@@ -1,13 +1,12 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif))]
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kavindu+Lakshan!;" />
 </h1>
 
 <h3 align="center">A passionate full stack software engineer from Sri Lanka 🇱🇰</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=codinard&label=Profile%20views&color=0e75b6&style=flat" alt="codinard" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codinard&label=Profile%20views&color=0e75b6&style=flat" alt="codinard" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **a human health app**
 
